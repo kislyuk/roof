@@ -1,6 +1,6 @@
 roof
 ====
 
-Friendly Python test coverage reporting tool
+Friendly Python test coverage and code quality reporting tool
 
 WIP
