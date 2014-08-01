@@ -1,0 +1,10 @@
+{
+  "name": "roof",
+  "version": "0.0.1",
+  "description": "roof",
+  "dependencies": {
+    "coffee-script": "1.7.1",
+    "less": "1.7.4"
+  },
+  "private": true
+}
